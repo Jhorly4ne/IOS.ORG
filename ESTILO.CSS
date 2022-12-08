@@ -1,0 +1,41 @@
+
+body{
+    background-color: #62997a;
+}
+
+H1{
+    color: #f0ffc9;
+}
+
+h2{
+    color: #f0ffc9;
+}
+
+h3{
+    text-align: ;
+    
+}
+
+p{
+    color: #72243d;
+}
+
+figure{
+    float: left;
+    width: 300px;
+    text-align: center;
+    font-size: smaller;
+    border: thin #3b0819 solid;
+    margin: 10px;
+    padding: 5px;
+    margin-left: 50px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+footer{
+    small
+}
